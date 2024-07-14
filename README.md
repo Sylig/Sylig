@@ -29,7 +29,8 @@ SQL <br>
 
 - 🔭 I’m currently working on a personal photography website.
 
-  ## 📫 How to reach me - email address: Simonaligorio@icloud.com
+## 📫 How to reach me
+Email address: Simonaligorio@icloud.com
 
 <!--
 **Sylig/Sylig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
