@@ -5,7 +5,7 @@
 
 I'm a passionate and dedicated developer with a good foundation in JavaScript, React, HTML, CSS.
 
-Driven by a passion for technology and a past academic background in User Experience Design and Media I, recently, successfully completed a university-certified Full-Stack Web Development Bootcamp with a grade of 100%. 
+Driven by a passion for technology and a past academic background in User Experience Design and Media I, recently and successfully, completed a university-certified Full-Stack Web Development Bootcamp with a grade of 100%. 
 This intensive program provided me with valuable hands-on experience and honed my skills in building web applications.
 
 Motivated by curiosity and a lust for learning, I seek to expand my skillset and stay up to date with the latest trends in the industry. 
