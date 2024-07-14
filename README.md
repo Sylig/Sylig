@@ -7,14 +7,11 @@ I am a graduate Full Stack Web Developer.
 - 🔭 Thanks to the CoGrammar and HyperionDev bootcamp, I am working on Frontend and Backend projects. <br>
 
 - Tech Stack
-- Frontend
 
 HTML <br>
 CSS <br>
 Javascript and Js Libraries <br>
 React.js <br>
-
-- Backend
 
 Atlas <br>
 Mongoose <br>
