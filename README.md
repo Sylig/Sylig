@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Simona Ligorio
+#  Ligorio
 
 About me
 
