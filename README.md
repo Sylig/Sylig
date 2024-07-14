@@ -26,7 +26,7 @@ Express <br>
 SQL <br>
 
 
-- 🔭 I’m currently working on a personal photography website.
+- 🔭 I’m currently working on different projects and a personal photography website.
 
 ## 📫 How to reach me
 Email address: Simonaligorio@icloud.com
