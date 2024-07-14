@@ -1,8 +1,8 @@
-## Hi there 👋
+## Simona Ligorio
 
-#  Ligorio
+Hi there 👋
 
-About me
+# About me
 
 I am a graduate Full Stack Web Developer. 
 
