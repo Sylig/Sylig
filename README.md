@@ -8,7 +8,8 @@ I'm a passionate and dedicated developer with a good foundation in JavaScript, R
 Recently, I successfully completed a university-certified full-stack web development bootcamp with a grade of 100%. 
 This intensive program provided me with valuable hands-on experience and honed my skills in building web applications.
 
-Driven by curiosity and a thirst for knowledge, I continuously seek to expand my skillset and stay up to date with the latest trends in the industry. With a focus on React.js and Node.js, I'm always looking for new challenges to enhance my expertise.
+Driven by curiosity, I seek to expand my skillset and stay up to date with the latest trends in the industry. 
+With a focus on React.js and Node.js, I'm always looking for new challenges to enhance my expertise.
 
 I believe that life is a continuous learning process, and I'm excited to embrace new technologies and explore different areas.
 
@@ -26,7 +27,9 @@ Postman <br>
 Express <br>
 SQL <br>
 
-- 📫 How to reach me - email address: Simonaligorio@icloud.com
+- 🔭 I’m currently working on a personal photography website.
+
+  ## 📫 How to reach me - email address: Simonaligorio@icloud.com
 
 <!--
 **Sylig/Sylig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
