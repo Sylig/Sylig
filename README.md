@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+Simona Ligorio
+
+About me
+
+I am a graduate Full Stack Web Developer. 
+
+- 🔭 Thanks to the CoGrammar and HyperionDev bootcamp, I am working on Frontend and Backend projects.
+
+For the Frontend I developed skills in:
+
+HTML
+CSS
+Javascript and Js Libraries
+React.js
+For the Backend I developed skills in:
+
+Atlas
+Mongoose
+MongoDB
+Postman
+Express
+SQL
+
+- 📫 How to reach me - email address: Simonaligorio@icloud.com
+
 <!--
 **Sylig/Sylig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
