@@ -17,7 +17,6 @@ HTML <br>
 CSS <br>
 Javascript and Js Libraries <br>
 React.js <br>
-
 Atlas <br>
 Mongoose <br>
 MongoDB <br>
