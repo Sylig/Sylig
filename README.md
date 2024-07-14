@@ -16,6 +16,8 @@ Javascript and Js Libraries
 React.js
 For the Backend I developed skills in:
 
+<br></br>
+
 Atlas
 Mongoose
 MongoDB
