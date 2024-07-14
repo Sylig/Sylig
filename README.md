@@ -11,6 +11,7 @@ This intensive program provided me with valuable hands-on experience and honed m
 Motivated by curiosity and a lust for learning, I seek to expand my skillset and stay up to date with the latest trends in the industry. 
 With a focus on React.js and Node.js, I'm always looking for new challenges to enhance my expertise.
 
+
 - Tech Stack
 
 HTML <br>
@@ -23,6 +24,7 @@ MongoDB <br>
 Postman <br> 
 Express <br>
 SQL <br>
+
 
 - 🔭 I’m currently working on a personal photography website.
 
