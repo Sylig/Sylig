@@ -3,15 +3,13 @@
 ## Hi there 👋 <br></br> About me
 
 
-I'm a passionate and dedicated developer with a good foundation in JavaScript, React, HTML, CSS, and an understanding of UX and UI design.
+I'm a passionate and dedicated developer with a good foundation in JavaScript, React, HTML, CSS.
 
-Recently, I successfully completed a university-certified full-stack web development bootcamp with a grade of 100%. 
+Driven by a passion for technology and a past academic background in User Experience Design and Media, I, recently, successfully completed a university-certified Full-Stack Web Development Bootcamp with a grade of 100%. 
 This intensive program provided me with valuable hands-on experience and honed my skills in building web applications.
 
-Driven by curiosity, I seek to expand my skillset and stay up to date with the latest trends in the industry. 
+Motivated by curiosity and a lust for learning, I seek to expand my skillset and stay up to date with the latest trends in the industry. 
 With a focus on React.js and Node.js, I'm always looking for new challenges to enhance my expertise.
-
-I believe that life is a continuous learning process, and I'm excited to embrace new technologies and explore different areas.
 
 - Tech Stack
 
